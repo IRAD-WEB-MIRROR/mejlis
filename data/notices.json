@@ -1,0 +1,35 @@
+{
+  "notices": [
+    {
+      "date": "2026-10-28",
+      "title": {
+        "en": "The draft budget for 2027 to be laid on 3 November",
+        "ir": "2027-jılkı byudjettin dolbooru 3-noyabrda kiyirilet",
+        "ru": "Проект бюджета на 2027 год будет внесён 3 ноября"
+      },
+      "text": {
+        "en": "The Office of the Governor will lay the Budget Bill 2027 before the Mejlis at the sitting of 3 November 2026. The Ways and Means Committee will hold hearings in November.",
+        "ir": "Gubernatordun apparatı 2027-jılkı Byudjet jönündögü mıyzam dolboorun Mejliske 2026-jıldın 3-noyabrındagı otırımda kiyiret. Kireshe jana chıgım komiteti noyabrda ugushtardı ötköröt.",
+        "ru": "Аппарат губернатора внесёт законопроект о бюджете на 2027 год в Меджлис на заседании 3 ноября 2026 года. Бюджетный комитет проведёт слушания в ноябре."
+      },
+      "signed": {
+        "en": "Secretariat of the Mejlis",
+        "ir": "Mejlistin katchılıgı",
+        "ru": "Секретариат Меджлиса"
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "title": {
+        "en": "Autumn session opened",
+        "ir": "Küzgü sessiya achıldı",
+        "ru": "Открыта осенняя сессия"
+      },
+      "text": {
+        "en": "The autumn session runs from 6 October to 18 December 2026. Sittings are held on Tuesdays. See the <a href=\"/visit.html\">public gallery</a>.",
+        "ir": "Küzgü sessiya 2026-jıldın 6-oktyabrınan 18-dekabrına cheyin ötöt. Otırımdar sheyshembi künderi. <a href=\"/visit.html\">Kogomduk balkondu</a> karañız.",
+        "ru": "Осенняя сессия продлится с 6 октября по 18 декабря 2026 года. Заседания проходят по вторникам. См. <a href=\"/visit.html\">гостевая галерея</a>."
+      }
+    }
+  ]
+}

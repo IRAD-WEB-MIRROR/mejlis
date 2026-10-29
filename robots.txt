@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mejlis.iradgov.org/sitemap.xml
