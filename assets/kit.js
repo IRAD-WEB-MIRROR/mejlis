@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Mejlis",
-   "kh1": "2027-jılkı Byudjet jönündögü mıyzam dolbooru 3-noyabrda kiyirilet",
-   "kh2": "Ekonomika ministrine suroolor",
-   "kh3": "Bajı kodeksine özgörtüü kiyirüü dolbooru birinchi okuudan öttü"
+   "kh1": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat",
+   "kh2": "2027-jılkı Byudjet jönündögü mıyzam dolbooru 3-noyabrda kiyirilet",
+   "kh3": "Ekonomika ministrine suroolor"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "Меджлис",
-   "kh1": "Законопроект о бюджете на 2027 год будет внесён 3 ноября",
-   "kh2": "Вопросы министру экономики",
-   "kh3": "Законопроект о внесении изменений в Таможенный кодекс прошёл первое чтение"
+   "kh1": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке",
+   "kh2": "Законопроект о бюджете на 2027 год будет внесён 3 ноября",
+   "kh3": "Вопросы министру экономики"
   }
  }
 });
